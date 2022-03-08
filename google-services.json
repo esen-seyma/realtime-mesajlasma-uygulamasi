@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "237395076957",
+    "firebase_url": "https://hichat-5139b-default-rtdb.firebaseio.com",
+    "project_id": "hichat-5139b",
+    "storage_bucket": "hichat-5139b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237395076957:android:370d6a942a97705feaeab4",
+        "android_client_info": {
+          "package_name": "com.example.hichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237395076957-fs8bq6g07jbs8jg102pk77ntlbhsn4is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHi4qsUWyER8JW31i1Va3Yx3zkWBgKiR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237395076957-fs8bq6g07jbs8jg102pk77ntlbhsn4is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
